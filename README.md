@@ -11,7 +11,6 @@
 | [**MovieMatch**](https://github.com/enterpraizer/MovieMatch) | Рекомендации фильмов тремя способами: Two-Tower по оценкам (MovieLens), гибридный семантический поиск (sentence-transformers + pgvector + полнотекстовый поиск, слияние через RRF), подбор по эмоции с селфи (ViT, ONNX) |
 | [**CloudIaaS**](https://github.com/enterpraizer/cloudiaas-backend) | Мультитенантная IaaS-платформа: VM, сети, квоты. LLM (Gemini) рекомендует конфигурацию VM по текстовому описанию и предлагает оптимизации по метрикам: few-shot, ответ в JSON, проверка квот в коде, фолбэк. FastAPI, Celery, PostgreSQL, Redis · [фронтенд](https://github.com/enterpraizer/cloudiaas-frontend) |
 | [**YOLO на Raspberry Pi 5**](https://github.com/enterpraizer/Practice) | YOLOv11n на CPU и на ускорителе Hailo-8L: модель скомпилирована и квантована в int8 самостоятельно, ускорение ~11× (3.6 → 38.8 FPS) |
-| [**CookFlow**](https://github.com/enterpraizer/cookflow) | Веб-приложение интерактивных рецептов на Flask + SQLAlchemy: REST API, миграции, тесты |
 
 ### Стек
 
